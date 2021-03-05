@@ -1,2 +1,2 @@
-# memories_-mern
+# memories_mern
 Created First MERN application
